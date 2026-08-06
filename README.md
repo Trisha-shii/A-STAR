@@ -167,20 +167,9 @@ aStarAlgo(start, goal)
 <hr>
 <h2>Sample Input</h2>
 <hr>
-6 6 <br>
-A B 2 <br>
-B C 1 <br>
-A E 3 <br>
-B G 9 <br>
-E D 6 <br>
-D G 1 <br>
-A 11 <br>
-B 6 <br>
-C 99 <br>
-E 7 <br>
-D 1 <br>
-G 0 <br>
+<img width="287" height="261" alt="image" src="https://github.com/user-attachments/assets/576e1797-8960-4530-b901-66c5d692c1a4" />
+
 <hr>
 <h2>Sample Output</h2>
 <hr>
-Path found: ['A', 'E', 'D', 'G']
+![Uploading image.png…]()
