@@ -146,40 +146,15 @@ aStarAlgo(start, goal)
 <hr>
 <h2>Sample Input</h2>
 <hr>
-<img width="296" height="224" alt="image" src="https://github.com/user-attachments/assets/04c8b9c4-bf32-4d4d-b119-39bdc8fbe974" />
+<img width="296" height="224" alt="image" src="https://github.com/user-attachments/assets/04c8b9c4-bf32-4d4d-b119-39bdc8fbe974" /> <br>
 <img width="361" height="144" alt="image" src="https://github.com/user-attachments/assets/aec237a6-93de-424e-b4a0-e7ab17059ede" />
-<img width="226" height="15" alt="image" src="https://github.com/user-attachments/assets/c539fcd1-0051-4bad-b0b2-2a642d2a8a1e" />
 
 
-10 14 <br>
-A B 6 <br>
-A F 3 <br>
-B D 2 <br>
-B C 3 <br>
-C D 1 <br>
-C E 5 <br>
-D E 8 <br>
-E I 5 <br>
-E J 5 <br>
-F G 1 <br>
-G I 3 <br>
-I J 3 <br>
-F H 7 <br>
-I H 2 <br>
-A 10 <br>
-B 8 <br>
-C 5 <br>
-D 7 <br>
-E 3 <br>
-F 6 <br>
-G 5 <br>
-H 3 <br>
-I 1 <br>
-J 0 <br>
+
 <hr>
 <h2>Sample Output</h2>
 <hr>
-Path found: ['A', 'F', 'G', 'I', 'J']
+<img width="226" height="15" alt="image" src="https://github.com/user-attachments/assets/c539fcd1-0051-4bad-b0b2-2a642d2a8a1e" />
 
 
 <hr>
