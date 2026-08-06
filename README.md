@@ -148,7 +148,8 @@ aStarAlgo(start, goal)
 <hr>
 <img width="296" height="224" alt="image" src="https://github.com/user-attachments/assets/04c8b9c4-bf32-4d4d-b119-39bdc8fbe974" />
 <img width="361" height="144" alt="image" src="https://github.com/user-attachments/assets/aec237a6-93de-424e-b4a0-e7ab17059ede" />
-![Uploading image.png…]()
+<img width="226" height="15" alt="image" src="https://github.com/user-attachments/assets/c539fcd1-0051-4bad-b0b2-2a642d2a8a1e" />
+
 
 10 14 <br>
 A B 6 <br>
